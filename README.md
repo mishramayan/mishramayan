@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development Engineering and Full-stack development roles.
 - 🌱 I’m currently learning Java, C++ and Web development.
 - 💞️ I’m looking to collaborate on Web-Development(React)
-- 📫 How to reach me mishra.ma@northeastern.edu
+- 📫 How to reach me mishra.ma@northeastern.edu | mayan.mishra8@gmail.com
 
 <!---
 mishramayan/mishramayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
