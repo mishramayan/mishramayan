@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mishramayan
 - 👀 I’m interested in Software development Engineering and Full-stack development roles.
-- 🌱 I’m currently learning Java, C++ and Web development.
+- 🌱 I’m currently learning ML and ML Ops.
 - 💞️ I’m looking to collaborate on Web-Development(React)
 - 📫 How to reach me mishra.ma@northeastern.edu | mayan.mishra8@gmail.com
 
