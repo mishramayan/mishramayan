@@ -12,6 +12,5 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 
 &nbsp;![](https://komarev.com/ghpvc/?username=ashishps1&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mansiz&show_icons=true&locale=en" alt="mayanm" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishramayan&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
